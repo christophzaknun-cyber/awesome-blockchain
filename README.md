@@ -79,6 +79,8 @@ List of content:
 the forest, the trees, and all the levels of detail in between.
 * [BlockSeer](https://www.blockseer.com/) Bitcoin blockchain analytics
 
+* [bitcoinbottom.app](https://bitcoinbottom.app) Free Bitcoin cycle bottom probability tracker aggregating 25 on-chain signals into a daily score.
+
 # Other
 * [Tradle](http://tradle.io/) extending the bitcoin blockchain to non-financial applications
 
