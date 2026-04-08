@@ -78,6 +78,8 @@ List of content:
 * [Numisigh](http://numisight.com/) Numisight gives you the tools you need to view 
 the forest, the trees, and all the levels of detail in between.
 * [BlockSeer](https://www.blockseer.com/) Bitcoin blockchain analytics
+* [bitcoinbottom.app](https://bitcoinbottom.app) - Aggregates 25 on-chain Bitcoin signals (MVRV Z-Score, Puell Multiple, Hash Ribbon, NUPL, ETF flows) into a daily cycle bottom probability score. Free, no signup, updated twice daily.
+* [btcdca.app](https://btcdca.app) - Bitcoin DCA calculator comparing signal-based entry timing vs. always-buy with fair capital normalization.
 
 # Other
 * [Tradle](http://tradle.io/) extending the bitcoin blockchain to non-financial applications
